@@ -60,7 +60,14 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\Candy.cs" />
     <Compile Include="Assets\Scripts\Controller.cs" />
+    <Compile Include="Assets\Scripts\LevelManager.cs" />
+    <Compile Include="Assets\Scripts\Model\Hero.cs" />
+    <Compile Include="Assets\Scripts\Model\ITailBlok.cs" />
+    <Compile Include="Assets\Scripts\Model\LevelMap.cs" />
+    <Compile Include="Assets\Scripts\Model\ListTupeBlok.cs" />
+    <Compile Include="Assets\Scripts\Model\NewBehaviourScript.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>D:/GameSlame(v0.2)/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>

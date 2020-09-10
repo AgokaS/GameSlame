@@ -3,7 +3,16 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - candy
+  - cliff
+  - Right
+  - Down
+  - Left
+  - Up
+  - candy_3
+  - candy_5
+  - sand
   layers:
   - Default
   - TransparentFX
